@@ -37,9 +37,9 @@ const Header = () => {
         <span>Discover, Learn, Thrive: Dive into our Library!</span>
         <div>
           <BiPhoneCall />
-          <span>030339845224</span>
+          <span>+91-9999999999</span>
           <AiOutlineMail />
-          <span>ggclib@gmail.com</span>
+          <span>swatikumari22102@gmail.com</span>
         </div>
       </div>
 

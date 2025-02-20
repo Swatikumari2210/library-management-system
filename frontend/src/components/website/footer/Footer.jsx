@@ -13,7 +13,7 @@ const Footer = () => {
             <h4>GTBITLibrary</h4>
           </div>
           <p style={{ marginTop: "8px", lineHeight: "1.5rem" }}>
-            Gateway to knowledge, discovery, and lifelong learning for all GGC
+            Gateway to knowledge, discovery, and lifelong learning for all GTBIT
             students, faculty, and staff.: A welcoming and inclusive space for
             all learners to come together and learn.
           </p>
@@ -54,21 +54,21 @@ const Footer = () => {
           <h4>CONTACT</h4>
           <div className="item">
             <AiOutlineHome className="icon__home" />
-            <span>Govt.Graduate College Taneyala, Jhelum</span>
+            <span>GTBIT</span>
           </div>
           <div className="item">
             <AiOutlineMail className="icon" />
-            <span>ggclib@gmail.com</span>
+            <span>swatikumari22102@gmail.com</span>
           </div>
           <div className="item">
             <AiOutlinePhone className="icon" />
-            <span>03445047347234</span>
+            <span>+91-9999999999</span>
           </div>
         </div>
       </div>
       <div className="bottom">
         <span>
-          &copy;2023 Copyright : GTBITLibrary Management System, Jhelum
+          &copy;2025 Copyright : GTBIT Library Management System 
         </span>
       </div>
     </footer>
